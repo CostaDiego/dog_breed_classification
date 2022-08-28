@@ -134,3 +134,7 @@ dmypy.json
 
 # Ignore Jupyter prototyping notebooks
 prototyping*.ipynb
+
+#ignore the models folder
+models*
+models*/*
